@@ -6,7 +6,6 @@
     <%- include("../partials/nav.ejs") %>
     <main class="loginContainer">
       <form action="/auth/login" method="POST">
-        <h1 class="signUpInHeader">Login To ROCKBUSTER</h1>
         <h4 class="authMessage">
           <% if(messages.error) { %> <%- messages.error %> <% } %>
         </h4>
@@ -20,7 +19,7 @@
         <button type="submit">Sign In</button>
       </form>
       <h5>
-        <a href="/auth/register">SIGN UP</a>
+        <button onclick="window.location.href='/auth/register';">Sign up</button>
       </h5>
     </main>
   </body>

@@ -1,5 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Alegreya Sans SC' rel='stylesheet");
-
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@500&display=swap');
 /* Global ----------------------------------------------------------------*/
 
 * {
@@ -8,7 +7,7 @@
 }
 
 html {
-  background-image: url("background\ image.png");
+  background-image: url("Background_1.png");
   background-color: rgb(27, 27, 27);
 }
 
@@ -24,8 +23,8 @@ body {
   display: flex;
   padding: 1rem 2.625rem 1rem 2.625rem;
   align-items: center;
+  font-family: 'Chivo Mono', monospace;
   justify-content: space-between;
-  font-family: "Anek Devanagari", sans-serif;
   background-image: linear-gradient(to right, rgb(158, 2, 2), rgb(34, 0, 0));
   border-bottom: 2px solid rgba(0, 0, 0, 0.7);
   position: fixed;
@@ -47,7 +46,7 @@ body {
   padding: 1rem 2.625rem 1rem 2.625rem;
   align-items: center;
   justify-content: space-between;
-  font-family: "Anek Devanagari", sans-serif;
+  font-family: 'Chivo Mono', monospace;
   color: rgb(34, 0, 0);
   background: rgb(181, 1, 1);
   border-bottom: 2px solid rgba(24, 24, 24, 0.7);
@@ -504,6 +503,7 @@ body {
 .registerContainer form {
   width: 360px;
   font-size: 1.2rem;
+  font-family: 'Chivo Mono', monospace;
   font-weight: 700;
   color: #ffffff;
   padding: 24px 40px;
