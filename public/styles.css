@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Alegreya Sans SC' rel='stylesheet");
+@import url("https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@300&display=swap");
 
 /* Global ----------------------------------------------------------------*/
 
@@ -8,8 +8,7 @@
 }
 
 html {
-  background-image: url("background\ image.png");
-  background-color: rgb(27, 27, 27);
+  background-color: rgba(179, 179, 179, 0.3);
 }
 
 body {
@@ -26,17 +25,17 @@ body {
   align-items: center;
   justify-content: space-between;
   font-family: "Anek Devanagari", sans-serif;
-  background-image: linear-gradient(to right, rgb(158, 2, 2), rgb(34, 0, 0));
-  border-bottom: 2px solid rgba(0, 0, 0, 0.7);
+  background-image: linear-gradient(to right, rgb(7, 1, 181), rgb(255, 217, 0));
+  border-bottom: 2px solid rgb(255, 255, 255, 0.7);
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  color: #d30000;
+  color: #002ed3;
 }
 
 .navbar .right a {
-  color: #d30000;
+  color: #002ed3;
   font-weight: 900;
 }
 .navbarFooter {
@@ -48,9 +47,9 @@ body {
   align-items: center;
   justify-content: space-between;
   font-family: "Anek Devanagari", sans-serif;
-  color: rgb(34, 0, 0);
-  background: rgb(181, 1, 1);
-  border-bottom: 2px solid rgba(24, 24, 24, 0.7);
+  color: #f9aa07;
+  background: rgb(16, 48, 173);
+  border-bottom: 2px solid rgb(255, 255, 255, 0.7);
   position: fixed;
   bottom: -10;
   left: 0;
@@ -60,7 +59,7 @@ body {
 .navbar .left h1 {
   float: left;
   text-align: center;
-  color: #ffffff;
+  color: #f9aa07;
   font-weight: 1500;
   font-size: 28px;
   letter-spacing: 1px;
@@ -86,7 +85,7 @@ body {
   letter-spacing: 0.5px;
   font-size: 18px;
   font-weight: 900;
-  color: rgb(0, 0, 0);
+  color: rgb(34, 5, 255);
 }
 
 .navbar .home a:hover,
@@ -159,7 +158,7 @@ body {
 }
 
 .button:hover {
-  background-color: rgb(181, 1, 1);
+  background-color: #002ed3;
   color: white;
 }
 .homeContainer .monSearch input,
@@ -169,7 +168,7 @@ body {
   padding: 4px;
   min-width: 8%;
   font-size: 16px;
-  border-bottom: 2px solid #07f92f;
+  border-bottom: 2px solid #f9aa07;
   background: transparent;
 }
 
@@ -505,11 +504,11 @@ body {
   width: 360px;
   font-size: 1.2rem;
   font-weight: 700;
-  color: #ffffff;
+  color: #f9aa07;
   padding: 24px 40px;
   border-radius: 1rem;
   row-gap: 10px;
-  background-color: #b80000;
+  background-color: #0c3cab;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.35);
   margin: auto;
   margin-top: 4vh;
@@ -536,31 +535,30 @@ body {
 .registerContainer h5 {
   text-align: center;
   font-size: 1rem;
-  color: #000000;
+  color: #0c3cab;
 }
 
 .loginContainer a:link,
 .loginContainer a:visited {
-  color: #a50101;
+  color: #0c3cab;
   text-decoration: none;
 }
 
 .loginContainer a:link:hover,
 .loginContainer a:visited:hover {
-  color: #fffefc;
+  color: #f9aa07;
   text-decoration: none;
 }
 
 .loginContainer button,
 .registerContainer button {
   margin: auto;
-  color: #cf0000;
-  background-color: #f0f0f0;
+  color: #f9aa07;
+  background-color: #0c3cab;
   font-size: 1.2rem;
   width: fit-content;
   padding: 8px 16px;
   border: none;
-  border-radius: 10px;
 }
 
 .loginContainer button:hover,
@@ -616,3 +614,4 @@ body {
   border: 3px solid green;
   padding: 10px;
 }
+/* ---------------------------------------------------------------- */

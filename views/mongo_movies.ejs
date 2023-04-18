@@ -1,4 +1,4 @@
-<!-- This is the ejs for results for searching the MongoDB  -->
+<!-- MongoDB  -->
 
 <html lang="en">
   <%- include('./partials/header.ejs') %>
@@ -21,7 +21,9 @@
     <%- include('./partials/nav2.ejs') %>
 
     <div class="mongoMovies">
-      <h2 class="mTitle"><%= mongoMovies[0].title %> (<%= mongoMovies[0].year %>)</h2>
+      <h2 class="mTitle">
+        <%= mongoMovies[0].title %> (<%= mongoMovies[0].year %>)
+      </h2>
       <% mongoMovies.forEach(result => { %>
 
       <div class="moviesDetails">
