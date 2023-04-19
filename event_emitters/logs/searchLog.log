@@ -1,42 +1,57 @@
-
-2022-12-15 11:14 AM	5b7f6baa-434e-4012-ab6e-e9598e6b4937	UserID: 6393acb0acc590d2e63caf99 UserName: William Stamp UserEmail: williamstamp88@gmail.com 	Searched: apple	STATUS: 304	INFO
-2022-12-15 11:16 AM	9c94f3ee-345e-4f40-abab-6c46522dcbb8	UserID: 6393acb0acc590d2e63caf99 UserName: William Stamp UserEmail: williamstamp88@gmail.com 	Searched: the	STATUS: 304	INFO
-2022-12-15 11:16 AM	5c37ba8b-ad07-407a-91b6-a2dac651858a	UserID: 6393acb0acc590d2e63caf99 UserName: William Stamp UserEmail: williamstamp88@gmail.com 	Searched: cool	STATUS: 200	INFO
-2022-12-15 11:17 AM	4a492869-de01-48f9-a6e9-67aa50fded12	UserID: 6393acb0acc590d2e63caf99User: William StampEmail: williamstamp88@gmail.com	Searched: the	STATUS: 304	INFO
-2022-12-15 11:18 AM	455ce920-1489-4cb9-a40f-8cc3f556d60e	UserID: 6393acb0acc590d2e63caf99	User: William Stamp	Email: williamstamp88@gmail.com	Searched: apple	STATUS: 304	INFO
-2022-12-15 15:50 PM	ebcc848d-768c-4186-a2b5-45ec2132307d	UserID: 6397bba9a327ebee2ac36451	User: john	Email: john@john.com	Searched: dog	STATUS: 200	INFO
-2022-12-15 15:59 PM	e01c1ce4-c5e8-4a4a-8a74-2cf49dd84e26	UserID: 6397bba9a327ebee2ac36451	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 16:08 PM	b04cba55-55d8-4cdc-a47a-df9f7cf3ac9c	UserID: 6397bba9a327ebee2ac36451	User: john	Email: john@john.com	Searched: dog	STATUS: 200	INFO
-2022-12-15 16:10 PM	9dd82b95-b6a5-4661-a81d-c0054372fafc	UserID: 6397bba9a327ebee2ac36451	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 16:12 PM	f9bce2e3-9e30-4036-a1c2-c524f2d6e9b3	UserID: 6397bba9a327ebee2ac36451	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 16:17 PM	55e4a76f-479f-4034-b944-fffca3978e09	UserID: 6397bba9a327ebee2ac36451	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 16:22 PM	eab3ed4e-8835-4677-a562-ed40a5fdfde9	UserID: 6397bba9a327ebee2ac36451	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 16:54 PM	8281efbe-dd94-4a20-a3dc-846784e8a99a	UserID: 6397bba9a327ebee2ac36451	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 17:00 PM	98907b4e-6100-4e8c-8312-1c8f82728470	UserID: 6397bba9a327ebee2ac36451	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 17:04 PM	ace646e5-3d23-482f-8edb-59a0173c702e	UserID: 6397bba9a327ebee2ac36451	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 18:17 PM	d836a7bb-bb9e-4200-aa35-1dbbc7708f41	UserID: 6397bba9a327ebee2ac36451	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 18:17 PM	923362c6-ecfb-414a-a421-0005b32d3464	UserID: 6397bba9a327ebee2ac36451 User: johnEmail: john@john.com	Searched: dog	STATUS: 200	INFO
-2022-12-15 19:23 PM	35a90ab0-2e05-4727-99c8-aaf91ec8763a	UserID: 639b97143a262ed319e25096	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 19:24 PM	6d85c512-1ff7-46df-80e6-669bddb34e3d	UserID: 639b97143a262ed319e25096	User: john	Email: john@john.com	Searched: car	STATUS: 200	INFO
-2022-12-15 19:24 PM	3e6de6d1-9d23-47b8-9271-df4153e9eea1	UserID: 639b97143a262ed319e25096	User: john	Email: john@john.com	Searched: camaro	STATUS: 200	INFO
-2022-12-15 19:24 PM	a855951a-2f49-4db0-9cd5-3cf746115397	UserID: 639b97143a262ed319e25096 User: johnEmail: john@john.com	Searched: camaro	STATUS: 200	INFO
-2022-12-15 19:24 PM	b0581c24-33e8-41dd-a929-d9b9de74e9a5	UserID: 639b97143a262ed319e25096	User: john	Email: john@john.com	Searched: people	STATUS: 200	INFO
-2022-12-15 19:27 PM	038ac22c-a54d-479c-aafb-036c53bcbe7b	UserID: 639b97143a262ed319e25096	User: john	Email: john@john.com	Searched: people	STATUS: 304	INFO
-2022-12-15 19:27 PM	2d323a79-e07a-4a95-bd63-ff66bc2f3d0d	UserID: 639b97143a262ed319e25096 User: johnEmail: john@john.com	Searched: car	STATUS: 200	INFO
-2022-12-15 19:31 PM	e3ec2c12-bcf3-4dc4-a743-b6a053a6f73d	UserID: 639b97143a262ed319e25096	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 21:15 PM	eb8a004d-d22e-46ee-a275-d90a28c21e0b	UserID: 639b97143a262ed319e25096	User: john	Email: john@john.com	Searched: dog	STATUS: 200	INFO
-2022-12-15 21:16 PM	832a2163-1fff-49e4-bf6b-2e16b093bcee	UserID: 639b97143a262ed319e25096	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 21:20 PM	a4b3c16b-2552-4013-92a4-5afe80d08749	UserID: 639b97143a262ed319e25096	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 21:21 PM	6013522e-659f-408a-b398-d6939b8ec1ad	UserID: 639b97143a262ed319e25096	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 21:22 PM	1a3e7970-82d5-41a5-a3aa-91b27c79219e	UserID: 639b97143a262ed319e25096	User: john	Email: john@john.com	Searched: dog	STATUS: 200	INFO
-2022-12-15 21:23 PM	cb942164-da24-408c-8f6d-78b3dcc70fec	UserID: 639b97143a262ed319e25096 User: johnEmail: john@john.com	Searched: moose	STATUS: 200	INFO
-2022-12-15 21:23 PM	05b92ce8-1981-42fc-b1df-7aaa75213ded	UserID: 639b97143a262ed319e25096 User: johnEmail: john@john.com	Searched: cars	STATUS: 200	INFO
-2022-12-15 21:23 PM	3401d90a-683e-4dc0-9249-ca589308a933	UserID: 639b97143a262ed319e25096 User: johnEmail: john@john.com	Searched: dog	STATUS: 200	INFO
-2022-12-15 21:24 PM	4ed9b5d8-8fdf-4a8f-8087-6628538e53bb	UserID: 639b97143a262ed319e25096 User: johnEmail: john@john.com	Searched: dog	STATUS: 200	INFO
-2022-12-15 21:24 PM	ad36f539-ecbe-41ff-b6f0-24b98a1bbf32	UserID: 639b97143a262ed319e25096	User: john	Email: john@john.com	Searched: dog	STATUS: 304	INFO
-2022-12-15 21:25 PM	a37a51ec-c1e7-437f-ab6c-075c5418387f	UserID: 639b97143a262ed319e25096	User: john	Email: john@john.com	Searched: car	STATUS: 200	INFO
-2022-12-16 14:03 PM	24ce872e-1f20-416f-af9e-0ce40d45c6d1	UserID: 6393acb0acc590d2e63caf99	User: William Stamp	Email: williamstamp88@gmail.com	Searched: the	STATUS: 200	INFO
-2022-12-16 14:09 PM	db775b41-5a51-4a6b-945d-1a371c5a9852	UserID: 6393acb0acc590d2e63caf99	User: William Stamp	Email: williamstamp88@gmail.com	Searched: the	STATUS: 304	INFO
-2022-12-16 14:09 PM	fe9fb4f4-7832-48a2-aa63-12f97c0c5f57	UserID: 6393acb0acc590d2e63caf99	User: William Stamp	Email: williamstamp88@gmail.com	Searched: the	STATUS: 304	INFO
-2022-12-16 14:09 PM	c15c79ef-b47d-4335-b84d-ac44fe9cb281	UserID: 6393acb0acc590d2e63caf99 User: William StampEmail: williamstamp88@gmail.com	Searched: the	STATUS: 200	INFO
-2022-12-16 14:11 PM	db1bdce5-8084-4b3b-be99-0c2e1cf16eef	UserID: 6393acb0acc590d2e63caf99	User: William Stamp	Email: williamstamp88@gmail.com	Searched: the	STATUS: 200	INFO
+2023-04-17 18:49 PM	9c1c5546-ff83-46b3-8995-e9f3fc05839b	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-17 18:49 PM	8bc5aa20-42d6-4abb-a861-f98c3c764df8	UserID: 643db7cca3c4d12e9907edeb User: Darla WardEmail: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-17 18:49 PM	1ce8c4ef-5ae7-404b-8e16-02559a0addd3	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: small	STATUS: 200	INFO
+2023-04-18 13:41 PM	76f2cdd4-1f5c-47ef-8a2c-41fab0c98402	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 13:41 PM	2223e17f-210f-484f-a0a0-623b4569f37c	UserID: 643db7cca3c4d12e9907edeb User: Darla WardEmail: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 13:47 PM	d03a448e-e945-4f29-867f-647181723003	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 13:48 PM	32ab842d-971c-4c2e-8d31-5b19e16e9e44	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 13:50 PM	348bff53-fd95-4b9e-9ae4-10e379589dfa	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 13:55 PM	b02a65d4-23e8-416b-a323-55c36cc61a7a	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 13:58 PM	9eaf554a-863f-428a-8f18-34b6620fed9a	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 14:00 PM	d500bf70-7a73-4530-95df-f9a01eee0b5c	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 14:04 PM	918a1864-ae23-48e3-bb3d-fa4136ee8cda	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 14:16 PM	2f2196e3-7a5d-4240-9042-8bab51e2c543	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 14:17 PM	619583b5-39f0-4a5e-bf59-ec1eaa260cfe	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 14:41 PM	37f1ed68-7d57-423c-a49a-797cc754702c	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 14:43 PM	d4122bf2-f34d-4d51-91c4-a0a60ffee2a5	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 14:43 PM	8a480866-ab72-4a67-8839-aba115d51bb6	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 14:43 PM	b7e5e3d7-05a0-445b-8cfc-c1e29ba790f8	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 14:44 PM	7e46bbcf-bbb0-428c-adb1-84ba40626077	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 14:44 PM	e8864045-ed90-40b1-bb33-13a4c2472d8b	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 14:44 PM	91f85484-bbd0-4e46-a2d2-e25ae0b2baa0	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 14:56 PM	91a48da7-8bd5-4794-a6db-4ad4e8d20e3a	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 15:17 PM	bd270117-e81f-4687-a455-b4d3c942a046	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 15:18 PM	90313aff-5ba0-409f-80f8-9f083f63ace0	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 15:42 PM	523d103e-da85-46cd-8a54-b2fb75f59157	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 15:47 PM	8cc42c1b-b688-42b9-98a2-992d4fe0f494	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 15:49 PM	58000587-04d5-4ab5-aa43-99c43ecf91b9	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 15:49 PM	e7d7b1db-be40-408e-80d4-14d5cab223e1	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 15:50 PM	7f75b80a-ce43-46de-be15-f2118ceccac9	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 15:51 PM	53cf8f93-6ae8-472a-a54a-6372974dc4ad	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 16:00 PM	1870fc79-2e69-4447-b2bc-9836dfdd346f	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 16:00 PM	d72626e3-ac8f-44f9-8ab9-10d9c3ff5d75	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 16:01 PM	98199c7c-b299-44c0-859c-7514e5c8a049	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 16:01 PM	7cd7888d-9812-47b0-b9d6-ae4a68a20c30	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 16:03 PM	fb0aa383-4fc4-4765-8685-f13d48d2642e	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 16:12 PM	4b062277-e058-4ea6-afe8-aafa5bad0062	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: small	STATUS: 200	INFO
+2023-04-18 16:57 PM	96af2868-d744-48ee-a05b-7afd1ba5d288	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 17:12 PM	59a4316e-0380-4652-9d3f-c26e3d58cbd3	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 17:12 PM	edf259ad-4032-4bbd-91f4-ecd635338014	UserID: 643db7cca3c4d12e9907edeb User: Darla WardEmail: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 17:12 PM	35e812ac-e028-4e52-a8c8-1065572dfe6c	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 17:23 PM	7ff642c2-47ea-4793-beb1-fe27f912eb2e	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 17:25 PM	06c03855-c72a-43c4-9127-99f11277e554	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: thye	STATUS: 200	INFO
+2023-04-18 17:26 PM	61646cad-7c06-4f9d-b3a7-8c5615669c8c	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 17:37 PM	fa8e84ea-112a-4672-bbcc-f8010f4b6325	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-18 17:38 PM	7606898c-c86f-4e5c-850a-13c4c8a3c447	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 17:41 PM	8cbc151f-86b0-412d-8846-704fc1c14fd7	UserID: 643db7cca3c4d12e9907edeb User: Darla WardEmail: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 17:42 PM	b2e3630c-e78d-4c75-9cf6-c82dbeb0b640	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 17:43 PM	d1b58176-3d6a-4d7e-8090-934e54d44954	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 17:48 PM	44302319-9999-4198-92b7-19235db86f08	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 17:54 PM	f2b23bbd-5d6f-4508-9d86-e1242c80bc6e	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-18 18:24 PM	90584905-8394-4f6d-a0c0-2ade20843bac	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-19 09:57 AM	f0f43757-1b6d-4671-a06a-b1e81257b188	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-19 10:02 AM	4e10c8a0-412b-4de9-b749-c27415292cea	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-19 10:08 AM	2c9acd52-4ef5-41ad-9206-c29c1c7fe94f	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-19 10:09 AM	dc1683c7-facb-45f1-a117-24dfdf20e8fd	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO
+2023-04-19 10:21 AM	026b602c-3e67-4abe-be27-d151cd17424b	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 200	INFO
+2023-04-19 11:08 AM	31ca9762-feeb-492c-82a3-5f003477ba2d	UserID: 643db7cca3c4d12e9907edeb	User: Darla Ward	Email: darla@keyin.com	Searched: the	STATUS: 304	INFO

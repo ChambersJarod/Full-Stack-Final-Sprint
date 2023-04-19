@@ -2,11 +2,11 @@
 
 <html lang="en">
   <%- include("../partials/header.ejs") %>
-  <body style="padding-top: 200px;">
+  <body style="padding-top: 200px">
     <%- include("../partials/nav.ejs") %>
     <main class="loginContainer">
       <form action="/auth/login" method="POST">
-        <h1 class="signUpInHeader">Login To ROCKBUSTER</h1>
+        <h1 class="signUpInHeader">Login To WebFlix</h1>
         <h4 class="authMessage">
           <% if(messages.error) { %> <%- messages.error %> <% } %>
         </h4>

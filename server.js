@@ -17,7 +17,7 @@ initializePassport(passport);
 
 const { checkAuthenticated } = require("./model/controllers/m.auth.dal");
 
-global.DEBUG = false;
+global.DEBUG = true;
 
 // Defines a constant named PORT that sets the server's port number to the value of the PORT environment variable, or 3030 if the variable is not set. This allows the server to run on the specified port and makes it easy to change the port number by setting the environment variable.
 const PORT = 3000;
@@ -91,7 +91,9 @@ app.listen(PORT, "localhost", async () => {
 // This code defines a route that will match requests to the root path (/). The route uses the checkAuthenticated middleware to ensure that the client is authenticated before continuing. If the client is not authenticated, the middleware will redirect the client to the login page. If the client is authenticated, the route will attempt to retrieve all movies from the MongoDB and PostgreSQL databases using the displayAllMongoMovies and displayAllPostgresMovies methods from the monData and pgData modules, respectively. If the data is successfully retrieved, the route will render the "home" view, passing the movies data and a title as local variables. If either of the data retrieval methods fails, the route will return an HTTP 502 Bad Gateway error. If an error occurs in the route handler itself, the route will return an HTTP 503 Service Unavailable error.
 app.get("/", checkAuthenticated, async (req, res) => {
   try {
+    console.log("try1");
     const mongoMovies = await monData.displayAllMongoMovies();
+    //console.log(mongoMovies);
 
     const postMovies = await pgData.displayAllPostgresMovies();
     if (DEBUG) console.log(postMovies);

@@ -1,6 +1,7 @@
 <html lang="en">
   <%- include('../partials/header.ejs') %>
-  <style>
+  <!--
+  <style> 
     body {
       background-color: #f3db42;
       font-family: sans-serif;
@@ -113,6 +114,7 @@
       font-size: 18px;
     }
   </style>
+          -->
   <body>
     <%- include('../partials/nav2.ejs') %>
     <div class="searchMongoLogo"></div>
@@ -131,12 +133,15 @@
             </p>
           </a>
         </div>
-        <% }) %> <% } else { %>
+
+        <% }) %> <% } else { %> <% console.log("We are here. " + mSearch.length)
+        %>
         <p>No movies found.</p>
         <% } %>
       </div>
     </div>
   </body>
+  <!--
   <% if (mSearch.length <= 5) { %> <%- include('../partials/footer.ejs') %> <% }
-  else {%> <%- include('../partials/footer.ejs') %> <% } %>
+  else {%> <%- include('../partials/footer.ejs') %> <% } %>-->
 </html>

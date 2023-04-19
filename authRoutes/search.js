@@ -33,7 +33,8 @@ const monData = require("../model/controllers/m.movies.dal");
 // The search results are then passed to the m_search view using the res.render() method and the mSearch and title variables are defined. The title variable is set to "Mongo Search" and the mSearch variable is set to the array of search results returned by the aggregation pipeline.
 
 // Finally, the code uses the myEmitter object to emit a log event with details of the search query and the HTTP response status code. This will trigger the logEvent() function to log the event details. This allows the application to keep track of all search queries made by users.
-router.get("/mongo", async (req, res) => {
+router.get("/mongo/", async (req, res) => {
+  if (DEBUG) console.log("/search/mongo");
   try {
     if (DEBUG) console.log(req.query);
 
@@ -41,6 +42,35 @@ router.get("/mongo", async (req, res) => {
       res.redirect("/");
       return;
     }
+    /*
+    const keyword = "example";
+    global.movies = dal
+      .db("sample_mflix")
+      .collection("movies")
+      .find({ $text: { $search: keyword } })
+      .toArray(function (err, docs) {
+        if (err) throw err;
+        console.log(docs);
+      });
+    //global.movies = dal.db("sample_mflix").collection("movies");
+
+
+const result = database.reduce((acc, curr) => {
+  if (curr.age > 30) {
+    acc.push(curr.name);
+  }
+  return acc;
+}, []);
+
+*/
+
+    //let searchResults = database.reduce((acc, curr)) =>
+    /*
+    let findResult = await movies.find({
+      title: "the",
+    });
+
+    await cursor.forEach(console.dir); */
 
     let searchResults = movies
       .aggregate([
@@ -49,17 +79,20 @@ router.get("/mongo", async (req, res) => {
             autocomplete: {
               query: `${req.query.search}`,
               path: "title",
-              fuzzy: {
-                maxEdits: 2,
-              },
+              fuzzy: { maxEdits: 2 },
             },
           },
         },
       ])
       .limit(54);
+
     const mSearch = await searchResults.toArray();
 
+    if (DEBUG) console.log("after aggregate");
+
     res.render("searchResults/m_search", { mSearch, title: "Mongo Search" });
+
+    console.log(mSearch);
 
     myEmitter.emit(
       "log",
@@ -68,6 +101,7 @@ router.get("/mongo", async (req, res) => {
       "searchLog.log"
     );
   } catch (error) {
+    if (DEBUG) console.log("catch error in search");
     // res.status(503).render("503");
   }
 });
@@ -109,9 +143,11 @@ router.get("/postgres", async (req, res) => {
 
 // If the array returned by the getMongoMovieDetails() function is empty, the code sends a HTTP 502 response to the client with a "Bad Gateway" error message. If the array is not empty, the detailed information about the movie is passed to the m_movieDetails view using the res.render() method and the mongoMovies and title variables are defined. The title variable is set to "Film Details" and the mongoMovies variable is set to the array of detailed information about the movie returned by the getMongoMovieDetails() function.
 router.get("/mongo/:_id", async (req, res) => {
+  if (DEBUG) console.log("/search/mongo/:id");
   try {
     if (DEBUG) console.log(req.params);
     const mongoMovies = await monData.getMongoMovieDetails(req.params._id);
+    //console.log(mongoMovies);
     if (DEBUG) console.log(mongoMovies);
 
     if (mongoMovies.length === 0) {

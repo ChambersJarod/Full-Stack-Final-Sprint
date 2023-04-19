@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@300&display=swap");
+/*@import url("https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@300&display=swap");
 
 /* Global ----------------------------------------------------------------*/
-
+/*
 * {
   margin: 0;
   padding: 0;
@@ -16,7 +16,7 @@ body {
 }
 
 /* Nav Bar ----------------------------------------------------------------*/
-
+/*
 .navbar {
   height: 60px;
   position: relative;
@@ -97,7 +97,7 @@ body {
 /* ---------------------------------------------------------------- */
 
 /* Error Pages ----------------------------------------------------------------*/
-
+/*
 .errTxt {
   margin: 1rem;
   float: left;
@@ -115,13 +115,13 @@ body {
 }
 
 /* Home Page CSS stuff*/
-
+/*
 .homeContainer {
   margin: 2rem 1rem auto 1rem;
 }
 
 /* Mongo and PosGres search title colors */
-
+/*
 .homeContainer .mongoHeader {
   padding: 1em;
   display: flex;
@@ -147,7 +147,7 @@ body {
   margin-left: 2.5rem;
   color: grey;
 }
-/* search buttons and input  */
+/* search buttons and input  */ /*
 .homeContainer .monSearch,
 .homeContainer .gresSearch {
   display: flex;
@@ -221,7 +221,7 @@ body {
 
 .moviesDetails {
   display: flex;
-  /* justify-content: space-between; */
+  /* justify-content: space-between; 
   justify-content: center;
 }
 
@@ -242,7 +242,7 @@ body {
 .monDescrip {
   padding-left: 27%;
   position: relative;
-  /* padding: 2em; */
+  /* padding: 2em; */ /*
   line-height: 21px;
   display: flex;
   justify-content: center;
@@ -285,7 +285,7 @@ body {
 }
 
 /* Postgres Details Page ----------------------------------------------------------------*/
-
+/*
 .postMovies {
   padding-top: 150px;
   margin: auto 1rem auto 1rem;
@@ -430,7 +430,7 @@ body {
 }
 /* ---------------------------------------------------------------- */
 
-/* Postgres Search Page ----------------------------------------------------------------*/
+/* Postgres Search Page ----------------------------------------------------------------
 
 .searchPostgresLogo {
   display: flex;
@@ -498,7 +498,7 @@ body {
   text-align: center;
 }
 
-/* adjustment height of Login area */
+/* adjustment height of Login area 
 .loginContainer form,
 .registerContainer form {
   width: 360px;
@@ -516,7 +516,7 @@ body {
   display: grid;
   columns: 2;
 }
-/* to adjust height of sign up page */
+/* to adjust height of sign up page 
 .registerContainer form {
   margin-top: 8em;
   padding: 2em;
@@ -580,7 +580,7 @@ body {
 }
 /* ---------------------------------------------------------------- */
 
-/* Account Page ----------------------------------------------------------------*/
+/* Account Page ----------------------------------------------------------------
 
 .authHeader {
   font-family: "Anek Devanagari", sans-serif;
@@ -613,5 +613,5 @@ body {
   width: 50%;
   border: 3px solid green;
   padding: 10px;
-}
+} 
 /* ---------------------------------------------------------------- */
