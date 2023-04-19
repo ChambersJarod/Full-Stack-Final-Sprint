@@ -1,5 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@300&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@500&display=swap');
 /* Global ----------------------------------------------------------------*/
 
 * {
@@ -8,7 +7,8 @@
 }
 
 html {
-  background-color: rgba(179, 179, 179, 0.3);
+  background-image: url("Background_1.png");
+  background-color: rgb(27, 27, 27);
 }
 
 body {
@@ -23,10 +23,10 @@ body {
   display: flex;
   padding: 1rem 2.625rem 1rem 2.625rem;
   align-items: center;
+  font-family: 'Chivo Mono', monospace;
   justify-content: space-between;
-  font-family: "Anek Devanagari", sans-serif;
-  background-image: linear-gradient(to right, rgb(7, 1, 181), rgb(255, 217, 0));
-  border-bottom: 2px solid rgb(255, 255, 255, 0.7);
+  background-image: linear-gradient(to right, rgb(158, 2, 2), rgb(34, 0, 0));
+  border-bottom: 2px solid rgba(0, 0, 0, 0.7);
   position: fixed;
   top: 0;
   left: 0;
@@ -46,10 +46,10 @@ body {
   padding: 1rem 2.625rem 1rem 2.625rem;
   align-items: center;
   justify-content: space-between;
-  font-family: "Anek Devanagari", sans-serif;
-  color: #f9aa07;
-  background: rgb(16, 48, 173);
-  border-bottom: 2px solid rgb(255, 255, 255, 0.7);
+  font-family: 'Chivo Mono', monospace;
+  color: rgb(34, 0, 0);
+  background: rgb(181, 1, 1);
+  border-bottom: 2px solid rgba(24, 24, 24, 0.7);
   position: fixed;
   bottom: -10;
   left: 0;
@@ -503,6 +503,7 @@ body {
 .registerContainer form {
   width: 360px;
   font-size: 1.2rem;
+  font-family: 'Chivo Mono', monospace;
   font-weight: 700;
   color: #f9aa07;
   padding: 24px 40px;
